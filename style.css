@@ -1,0 +1,23 @@
+.fixed {
+  position: fixed;
+  bottom: 0;
+  border: 8px solid blue;
+  padding: 15px;
+}
+.left {
+  float: left;
+  width: 150px;
+  border: 8px solid red;
+
+}
+.right {
+  float: right;
+  width: 150px;
+  border: 8px solid green;
+}
+.image {
+  position: absolute;
+  left: 500px;
+  top: 2000px;
+  border: 8px solid brown;
+}
